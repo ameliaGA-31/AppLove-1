@@ -139,7 +139,7 @@ div h1{
   -moz-transform: scale(1.5);
   -o-transform: scale(1.5);
   -ms-transform: scale(1.5);
-  transform: scale(1.5)
+  transform: scale(1.5);
 
 }
 .contenImag{
@@ -159,7 +159,6 @@ div span{
   color: black;
   margin: 5px auto;
   box-sizing: border-box;
-}
 }
 .cont-cajas h5, .cont-cajas h6{
   font-size: 1em;
