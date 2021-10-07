@@ -32,8 +32,8 @@ En este reto no modificque plantillas pero sobre ese trabaje e hice uso de lo si
 - Al background de imagen use Line-height para tamaños exactos.
 
 ## Resultado Replica
-![Imagen](./assets/images/parte1.png)
-![Imagen](./assets/images/parte2.png)
-![Imagen](./assets/images/parte3.png)
-![Imagen](./assets/images/parte4.png)
+![Imagen](./assets/images/parte1.jpg)
+![Imagen](./assets/images/parte2.jpg)
+![Imagen](./assets/images/parte3.jpg)
+![Imagen](./assets/images/parte4.jpg)
 
